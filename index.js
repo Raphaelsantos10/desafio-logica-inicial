@@ -6,7 +6,7 @@ let numeroDeMonstrosMortos = 50;
 
 // Exibição de informações iniciais
 console.log("Número de monstros mortos: " + numeroDeMonstrosMortos);
-console.log("Cada monstro derrotado concede 500 XP.");
+console.log("Cada monstro derrotado concede 250 XP.");
 
 // Laço de repetição para ganhar XP
 for (let i = 0; i < numeroDeMonstrosMortos; i++) {
